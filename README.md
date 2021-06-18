@@ -7,7 +7,7 @@ An introductory python workshop using Portugal covid data.
 # Contents
 
 
-- [Learning Notebook](http://localhost:8888/notebooks/Desktop/Covid/Learning/Covid%20Portugal.ipynb)
+- [Learning Notebook](https://colab.research.google.com/github/vohcolab/Covid-in-Portugal-Workshop/blob/master/Learning/Covid%20Portugal.ipynb)
 - [Exercises Notebook](https://colab.research.google.com/github/vohcolab/Covid-in-Portugal-Workshop/blob/master/Exercises/Panda%20101%20Exercises.ipynb)
 
 
